@@ -30,3 +30,7 @@ Star Mail includes email which can be used to send mail from anywhere long as th
 
 ### Supported integrations
 [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)
+- Mailbox locations are visible on Dynmap, a web map for Minecraft servers.
+
+### Contributors
+Contributions are welcome. You will be noted on the [Contributions Doc](contributing.md)
