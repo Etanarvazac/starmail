@@ -1,4 +1,4 @@
-# star Mail
+# Star Mail
 Originally developed by [sword7 on GitLab](https://gitlab.com/sword7/starmail) and [released on Spigot](https://www.spigotmc.org/resources/star-mail.73406/).
 
 Star Mail adds mailboxed, letters, and packages to the game and pays close attention to details to deliver an immersive mailing experience. Player can send three types of mail by default: letters, books, and packages. Players with the `mail.custom` permission will be able to send any item as mail.
